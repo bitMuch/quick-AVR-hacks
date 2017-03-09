@@ -1,0 +1,2 @@
+# quick-AVR-hacks
+QuAVRs
